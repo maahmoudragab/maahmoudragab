@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mahmoud 👋
 
-<!--
-**maahmoudragab/maahmoudragab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🎬 [Moovy](https://github.com/USERNAME/moovy) — Movie app with React & Next
+- 🛒 [E-Commerce](https://github.com/USERNAME/ecommerce) — Online shop demo
+
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/USERNAME)  
+- [Email](mailto:YOURMAIL@gmail.com)
