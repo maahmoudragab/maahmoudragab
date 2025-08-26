@@ -44,9 +44,6 @@ Currently, I'm looking for opportunities to **grow in a professional team** and 
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahmoudragab&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
 
 ---
 
