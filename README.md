@@ -7,7 +7,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 
 ## 📊 GitHub Stats
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=maahmoudragab&show_icons=true&theme=radical)
 
 ## 🚀 Featured Projects
 - 🎬 [Moovy](https://github.com/USERNAME/moovy) — Movie app with React & Next
