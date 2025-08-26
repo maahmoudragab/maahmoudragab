@@ -33,10 +33,16 @@ Currently, I'm looking for opportunities to **grow in a professional team** and 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maahmoudragab&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maahmoudragab&theme=radical&hide_border=true" height="180"/>
-</p>
+
+<div align="center">
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=maahmoudragab&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" style="flex: 1 1 300px; min-width: 300px; max-width: 400px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maahmoudragab&theme=radical&hide_border=true" height="180" style="flex: 1 1 300px; min-width: 300px; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahmoudragab&layout=compact&theme=radical&hide_border=true" height="180" style="flex: 1 1 300px; min-width: 300px; max-width: 400px;" />
+  </div>
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahmoudragab&layout=compact&theme=radical&hide_border=true" height="180"/>
